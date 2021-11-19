@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto de Receitas!
 
-Esse o projeto se trata de um app de receitas que se conecta com duas APIs (uma de bebidas e outra de comidas), onde é possivel ver a lista de receitas, detalhes, instruções, vídeos, favoritar, realizar buscas e filtros. O projeto foi feito no final do módulo de Front-end da trybe (14/07/2021), aqui foi utilizado react para gerenciar o estado, biblioteca do react-redux e hooks(useState, useContext, useEffect). 
+Esse o projeto se trata de um app de receitas que se conecta com duas APIs (uma de bebidas e outra de comidas), onde é possivel ver a lista de receitas, detalhes, instruções, vídeos, favoritar, realizar buscas e filtros. O projeto foi feito no final do módulo de Front-end da trybe (14/07/2021) e foram dez dias de projeto, aqui foi utilizado react para gerenciar o estado, biblioteca do react-redux e hooks(useState, useContext, useEffect). 
 
 
 # Entregáveis
