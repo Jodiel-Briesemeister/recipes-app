@@ -12,7 +12,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub sempre que
 ### Protótipo do projeto
 https://www.figma.com/file/WatDxtKl7g54QxhDi9qdbq/App-Receitas?node-id=0%3A1
 
-# Intruções
+# Instruções
 
 1. Clone o repositório
   * `git clone git@github.com:Jodiel-Briesemeister/recipes-app.git`.
