@@ -24,6 +24,10 @@ https://www.figma.com/file/WatDxtKl7g54QxhDi9qdbq/App-Receitas?node-id=0%3A1
     * `npm install`
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador)
+    
+3. Observações
+    * Esse projeto foi feito focado na resolução de tela de 360 x 640, portanto caso queira visualizar as telas corretamente clique com o botão direito do mouse em qualquer lugar da página e selecione "inspecionar" em seguida pressione ctrl+shift+m ou clique no ícone de celular no canto superior esquerdo.
+    * Para navegar entre as páginas basta se logar colocando um endereço de email qualquer, exemplo: teste@gmail.com e uma senha com mais de 6 caracteres.
 
 
 ## LISTA DE REQUISITOS
